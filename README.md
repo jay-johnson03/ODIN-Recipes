@@ -16,3 +16,13 @@ Future Improvements :
 - Making the text flow better 
 - Learning how to implement a button
 
+Here's what my website looks like
+<img src= "media/screenshot.png">
+
+Learning Outcomes:
+- Becoming more comfortable with implementing images and links 
+- The order to put things in an anchor (like a button with a link not a link with a button) 
+- Commenting Properly 
+
+<a href="">
+
