@@ -1,57 +1,59 @@
 .home {
-    background-image:url('media/fluid.gif');
+    background-image: url('media/fluid.gif');
     background-size: cover;
-    background-position: center center; 
-    background-repeat: no-repeat; 
+    background-position: center center;
+    background-repeat: no-repeat;
     height: 100vh;
     width: 100%;
-    color:rgb(109, 3, 106)
+    color: rgb(109, 3, 106)
 }
+
 .article-fried-chicken {
     background-color: rgb(121, 98, 249);
-    color:rgb(83, 196, 175);
+    color: rgb(83, 196, 175);
 }
 
 .main-fried-chicken {
-    background-image:url('media/liquid.gif');
+    background-image: url('media/liquid.gif');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     height: 100vh;
     width: 100%;
-    color:rgb(122, 216, 112)
+    color: rgb(122, 216, 112)
 }
 
 .main-curry {
-    background-image:url('media/coffee.gif');
+    background-image: url('media/coffee.gif');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     height: 100vh;
     width: 100%;
-    color:rgb(77, 28, 2)
+    color: rgb(77, 28, 2)
 }
+
 .article-curry {
     background-color: rgb(159, 110, 12);
-    color:wheat;
+    color: wheat;
 }
 
 .main-garlic-pasta {
-    background-image:url('media/green-fluid.gif');
+    background-image: url('media/green-fluid.gif');
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
     height: 100vh;
     width: 100%;
-    color:rgb(36, 3, 92)
+    color: rgb(36, 3, 92)
 }
 
 .article-garlic-pasta {
     background-color: rgb(16, 92, 82);
-    color:rgb(83, 196, 175);
+    color: rgb(83, 196, 175);
 }
 
 button {
     background-color: rgb(109, 194, 236);
-    color:palevioletred;
+    color: palevioletred;
 }
