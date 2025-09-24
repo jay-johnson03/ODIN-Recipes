@@ -31,11 +31,25 @@
     width: 100%;
     color:rgb(77, 28, 2)
 }
-.curry {
+.article-curry {
     background-color: rgb(159, 110, 12);
     color:wheat;
 }
 
+.main-garlic-pasta {
+    background-image:url('media/green-fluid.gif');
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    color:rgb(36, 3, 92)
+}
+
+.article-garlic-pasta {
+    background-color: rgb(16, 92, 82);
+    color:rgb(83, 196, 175);
+}
 
 button {
     background-color: rgb(109, 194, 236);
